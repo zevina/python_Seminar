@@ -18,4 +18,4 @@ b = int(input('В: '))
 #     a -= 2
 
 for i in range(a - (a - 1) % 2, b-1, -2):
-    print(i)
+    print(i, end=' ')
