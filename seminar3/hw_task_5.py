@@ -26,9 +26,13 @@ list_fib = []
 for el in range(1, num + 1):
     list_fib.append(fib(el))
 
+# list_neg_fib = []
+# for el in range(0, num + 1):
+#     list_neg_fib.append(neg_fib(el))
+# list_neg_fib.reverse()
+
 list_neg_fib = []
-for el in range(0, num + 1):
+for el in range(num, -1, -1):
     list_neg_fib.append(neg_fib(el))
 
-list_neg_fib.reverse()
 print(list_neg_fib + list_fib)
