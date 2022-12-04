@@ -1,8 +1,4 @@
 
-E
-seminar1/hw_task_4.py,5\4\54fc0c31aa714c0cd6dc6a7a7598019af4a30d76
-E
-seminar1/hw_task_1.py,d\7\d76003dcee2762eb8eba050e84d4715e38cbcc87
 A
 seminar1/task6.py,e\b\eb691992fe410b1640f43613b15301b764dee2e0
 A
@@ -11,8 +7,6 @@ A
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
 A
 seminar1/task7.py,5\7\574a27466de195c1cd13fa3e6a1c95a0e970de1b
-E
-seminar1/hw_task_3.py,1\b\1b346184a1459bf51d3bd51a904bae75070b7e47
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -50,8 +44,6 @@ E
 seminar2/hw_task_2.py,5\9\59c7c9ad75a7152934fe8c9c23c27baf286ad61e
 E
 seminar2/hw_task_1.py,1\5\15fbd0984e2be09f3ae8ab05e455eaff641f558e
-E
-seminar1/hw_task_2.py,8\e\8e246836a42ab1e368e7d894a9a7f9aff6c932f1
 B
 seminar3/task_3.py,e\d\edb2a9e66e4278bc202d7a6c14f9be62eb06a84d
 B
@@ -70,3 +62,15 @@ B
 seminar3/task_4.py,f\8\f85b68c9dc225d26227a77bfe7dad148ae660b36
 B
 seminar3/task_9.py,c\6\c62422b1a6f2c7ceaf3c30186989b44f8f91fff0
+E
+seminar3/hw_task_2.py,6\e\6e840f7f21167238f57c824737d8072b5be7dfa8
+E
+seminar3/hw_task_3.py,c\6\c63ae187db0f4e107428748e924e2004fd11e258
+E
+seminar3/hw_task_5.py,1\d\1df630a60a0040efd26e7f0075c8b1f69eeb3ab2
+E
+seminar3/hw_task_4.py,3\5\35f398fc9a286dd1bbfc2949320f2abc93ad5f48
+E
+seminar3/hw_task_1.py,2\9\29b901788bb132e1c67f0908f17cab675b9d6b61
+7
+test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
