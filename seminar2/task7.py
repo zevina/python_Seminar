@@ -20,5 +20,5 @@ n = int(input('Введите число N: '))
 #     else:
 #         break
 
-for i in range(1, int(n ** 0.5)):
+for i in range(1, int(n ** 0.5) + 1):
     print(i ** 2)
