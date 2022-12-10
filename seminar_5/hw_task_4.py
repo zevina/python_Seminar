@@ -9,6 +9,7 @@
 
 # s = input('Введите текст для кодировки: ')
 
+#РЕШЕНО СОВМЕСТНО С РЯБОВЫМ АНДРЕЕМ
 import re
 
 s = 'WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW'
